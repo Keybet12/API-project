@@ -1,0 +1,125 @@
+ 
+body{
+    background-color: white;
+    background-size: cover;
+    background-image: url("https://pictures-kenya.jijistatic.com/43836535_MTYwMC0xMDY2LTYyMDUzODY5Zjc.webp");
+    background-attachment: fixed;
+    padding: 10px;
+    padding-top: 0px;
+    position: absolute;
+   
+    
+}
+ 
+.Vehicles, .Vehicles_2{
+    display: flex;
+    
+   
+}
+.Head{
+    display: flex;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background: linear-gradient(skyblue, white);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#signup{
+    border-radius: 5px;
+    border: 1px solid darkslategray;
+    margin-left: 150px;
+    height: 30px;
+    width: 70px;
+    background: linear-gradient(skyblue, white);
+    margin-top: 28px;
+    font-weight: bold;
+    margin-left: 500px;
+}
+#signup:hover{
+    background: linear-gradient(white, skyblue);
+}
+ 
+ 
+ .heading{
+    text-align: start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(84, 103, 122);
+    text-shadow: 4px 4px 2px rgb(251, 252, 252);
+    margin-left: 100px;
+    
+ }
+ .AxioCont, .AudiCont, .BenzCont, .FordCont{
+    display: inline-block;
+    border: 2px solid skyblue;
+    padding: 5px;
+    background: linear-gradient(skyblue, white);
+    padding-left: 4px;
+    height: 420px;
+    width: 630px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 10px;
+    
+
+    
+ }
+ .AudiCont, .FordCont{
+    margin-left: 40px;
+ }
+ 
+ 
+  img{
+    display: flexbox;
+    width: 200px;
+   
+   }
+  
+   .button{
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    font-weight: bold;
+    background-color:  skyblue;
+    border: 2px solid black;
+    border-radius: 5px;
+   }
+   .button:hover{
+     background: linear-gradient(skyblue, white);
+    font-size: medium;
+   }
+   #pop{
+    background-color: maroon;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 30px;
+    width: 100px;
+    font-size: medium;
+   }
+   #pop:hover{
+    background: linear-gradient(skyblue, white);
+    font-size: small;
+   }
+   h3{
+    font-size: x-large;
+    font-weight: bold;
+    color: red;
+   }
+   #end{
+    color: black;
+    text-shadow: 3px 3px 2px white;
+   }
+   span{
+    color: blue;
+    text-shadow: none;
+   }
+   a{
+    color: blue;
+   }
+   .bottom{
+    background: linear-gradient(skyblue, white);
+   }
+    
+  
